@@ -59,4 +59,4 @@ Tabby aimed to minimize its `PD30` (Probability of Default at 30 days) from **4.
 
 ## ✉️ Contact
 
-For questions or collaboration, reach out via [LinkedIn]([https://www.linkedin.com/in/ferraro-pablo/]).
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/ferraro-pablo)
